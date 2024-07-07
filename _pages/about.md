@@ -14,4 +14,4 @@ I co-founded [Youth Plus Uganda](https://ypec.netlify.app/), an organization ded
 
 My research interests lie in Development Economics and Health Economics. I study development issues impacting developing countries and explore policies designed to address these challenges.
 
- Contact: <a href="mailto:dn354@cornell.edu" style="color: #007bff; text-decoration: none;">dn354@cornell.edu</a>
+ Contact: <a href="mailto:dn354@cornell.edu" >dn354@cornell.edu</a>
