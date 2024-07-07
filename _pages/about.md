@@ -13,3 +13,5 @@ I am a PhD student at [Jeb E. Brooks School of Public Policy](https://publicpoli
 I co-founded [Youth Plus Uganda](https://ypec.netlify.app/), an organization dedicated to enhancing the health and well-being of young people, with a focus on sexual and reproductive health, gender equality, and economic empowerment. Our approach utilizes peer-to-peer education to empower young individuals, advocate for their needs, and foster partnerships with authorities and local health centers.
 
 My research interests lie in Development Economics and Health Economics. I study development issues impacting developing countries and explore policies designed to address these challenges.
+
+ Contact: <a href="mailto:dn354@cornell.edu" style="color: #007bff; text-decoration: none;">dn354@cornell.edu</a>
