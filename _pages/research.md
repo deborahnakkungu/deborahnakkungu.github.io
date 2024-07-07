@@ -14,4 +14,4 @@ author_profile: true
 
 Child Health Impacts of Coal: Evidence from India Coal Plants, *with Partha Deb and Sangita Vyas*.
 
-Open Defecation and Child and Maternal Health: Evidence from Benin, *with Sossou Adjisse*.
+What are the Child and Maternal Health Impacts of Open Defecation?: Evidence from Benin, *with Sossou Adjisse*.
