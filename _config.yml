@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Personal Website"
+title                    : "Deborah Nakkungu"
 title_separator          : "-"
 name                     : &name "Deborah Nakkungu"
 description              : &description "PhD student"
@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Deborah Nakkungu"
-  avatar           : "CampbellRomaine_profile.jpg"
+  avatar           : "Deborah_C00781 2.jpg"
   bio              : ""
   location         : "Ithaca, NY"
   employer         :
