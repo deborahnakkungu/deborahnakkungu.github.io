@@ -82,14 +82,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Romaine A. Campbell"
+  name             : "Deborah Nakkungu"
   avatar           : "CampbellRomaine_profile.jpg"
   bio              : ""
-  location         : "Cambridge, MA"
+  location         : "Ithaca, NY"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : rcampbell@cornell.edu
+  email            : dn354@cornell.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "romainecampbell"
+  github           : "deborahnakkungu"
   google_plus      :
   keybase          :
   instagram        :
@@ -111,7 +111,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : RomCampbell
+  twitter          : NakkunguD
   vine             :
   weibo            :
   xing             :
