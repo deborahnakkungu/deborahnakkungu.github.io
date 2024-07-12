@@ -12,6 +12,6 @@ author_profile: true
 
 <h2>Work in Progress</h2>
 
-Child Health Impacts of Coal: Evidence from India Coal Plants, *with Partha Deb and Sangita Vyas*.
+Coal Capacity Expansion and Health, *with Partha Deb and Sangita Vyas*.
 
-What are the Child and Maternal Health Impacts of Open Defecation?: Evidence from Benin, *with Sossou Adjisse*.
+Child and Maternal Health in Benin, *with Sossou Adjisse*.
