@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 
-<h2>Academic Works</h2>
+{%<h2>Academic Works</h2>}
 
-[Impact of Exposure to Coal Plants on Birth Weight: Evidence from India Coal Plant Capacity](https://academicworks.cuny.edu/hc_sas_etds/1195),(2024).
+{%[Impact of Exposure to Coal Plants on Birth Weight: Evidence from India Coal Plant Capacity](https://academicworks.cuny.edu/hc_sas_etds/1195),(2024).}
 
-<h2>Work in Progress</h2>
+{%<h2>Work in Progress</h2>}
 
-Impact of Exposure to Coal on Health, *with Partha Deb *.
+{%Impact of Exposure to Coal on Health, *with Partha Deb *.}
 
-Child and Maternal Health in Benin, *with Sossou Adjisse*.
+{%Child and Maternal Health in Benin, *with Sossou Adjisse*.}
