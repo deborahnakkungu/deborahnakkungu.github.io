@@ -12,6 +12,6 @@ author_profile: true
 
 <h2>Work in Progress</h2>
 
-Coal Capacity Expansion and Health, *with Partha Deb and Sangita Vyas*.
+Impact of Exposure to Coal on Health, *with Partha Deb *.
 
 Child and Maternal Health in Benin, *with Sossou Adjisse*.
