@@ -1,5 +1,5 @@
 ---
-title: "Data Analytics and Research Methods"
+title: "ECO 727: Data Analytics and Research Methods"
 collection: teaching assistant
 type: "Graduate level course"
 permalink: /teaching/2024-Winter-ECO 727
