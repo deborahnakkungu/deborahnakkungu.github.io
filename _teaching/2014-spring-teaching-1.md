@@ -1,5 +1,5 @@
 ---
-title: "ECO 100 Introduction to Microeconomics"
+title: "ECO 100: Introduction to Microeconomics"
 collection: teaching assistant
 type: "Undergraduate course"
 permalink: /teaching/2022-fall-ECO 100
