@@ -1,5 +1,5 @@
 ---
-title: "Nonlinear Econometrics"
+title: "ECO 722: Nonlinear Econometrics"
 collection: teaching assistant
 type: "Graduate level course"
 permalink: /teaching/2023-spring-ECO 722
